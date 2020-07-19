@@ -28,9 +28,9 @@ https://mockflow.com/
 https://marvelapp.com/
 
 HTML
-Flexbox Game : https://flexboxfroggy.com/#es
-Templates: https://themeforest.net/
-Material Desing For Bootstrap: https://mdbootstrap.com/
+- Flexbox Game : https://flexboxfroggy.com/#es
+- Templates: https://themeforest.net/
+- Material Desing For Bootstrap: https://mdbootstrap.com/
 
 PALLETAS COLORES
 - https://colorsinspo.com/
@@ -52,9 +52,6 @@ ICONOS
 - https://iconscout.com/
 - https://www.flaticon.com/
 - https://material.io/resources/icons/?style=baseline
-
-
-
 
 BLOG:
 - https://practi.dev/blog/
