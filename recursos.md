@@ -47,6 +47,13 @@ IMAGENES:
 - https://www.freepik.es/
 - https://www.pngwing.com/es
 
+ILUSTRACIONES (SVG - PNG)
+- https://www.opendoodles.com/
+- https://www.drawkit.io/
+- https://www.humaaans.com/
+- https://iradesign.io/gallery/illustrations
+- https://illlustrations.co/
+
 ICONOS
 - https://material.io/resources/icons/?style=baseline
 - https://iconscout.com/
